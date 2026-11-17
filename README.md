@@ -1,4 +1,4 @@
-# Hi, I'm Rohit Lodh 👋
+# Hi, I'm Rohit 👋
 
 **Risk, Compliance & Operations professional** based in Guwahati, Assam, India, with experience across technology, cybersecurity-oriented risk, project management, compliance management, process governance, system configuration, and supply chain operations.
 
@@ -94,4 +94,4 @@ I'm open to opportunities in **Project Management**, **Cybersecurity / GRC**, **
 - Behance / Portfolio: [UI/UX Gallery](https://behance.net/gallery/162853069/UIUX-1)
 - Email: [lodhrohit0@gmail.com](mailto:lodhrohit0@gmail.com)
 
-📄 **Full CV:** [Download PDF](./Rohit_Lodh_CV.pdf)
+📄 **Full CV:** [Download PDF](./CV - Ro - RRff.pdf)
